@@ -1,2 +1,2 @@
-# WebServer Sockets
-Bases para comenzar a trabajar con websockets en Node
+# Socket Server Básico
+Un servidor de Websockets usando Node, Express y Socket.io
